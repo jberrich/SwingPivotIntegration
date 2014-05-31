@@ -1,0 +1,14 @@
+<layout:LoadDataSheetView xmlns         = "org.apache.pivot.wtk"
+    					  xmlns:bxml    = "http://pivot.apache.org/bxml"
+    					  xmlns:layout  = "ma.supmti.forum.view"
+    					  xmlns:content = "org.apache.pivot.wtk.content">
+    <bxml:define>
+        <bxml:include bxml:id="styles" src="/ma/supmti/forum/view/style/styles.json"/>
+    </bxml:define> 
+    <Border title ="Chargement" styles="$styles.fBorderStyles">
+		<BoxPane styles="{horizontalAlignment : 'left', verticalAlignment : 'center'}">
+			<ActivityIndicator bxml:id="progressIndicator" preferredWidth="24" preferredHeight="24" active="true" styles="$styles.fActivityIndicatorStyles"/>
+		    <Label bxml:id="progressLabel" text="Chargement des données en cours..." styles="$styles.fLabelStyles"/>
+		</BoxPane>
+	</Border> 
+</layout:LoadDataSheetView>

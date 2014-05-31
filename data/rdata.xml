@@ -1,0 +1,2583 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<forum>
+    <fateliers>
+        <fatelier id="a1" name="Atelier 1 : Entreprenariat et cr�ation d'entreprise"/>
+        <fatelier id="a2" name="Atelier 2 : Techniques de recherche d'emploi"/>
+        <fatelier id="a3" name="Atelier 3 : Programmation Neuro Linguistique"/>
+        <fatelier id="a4" name="Atelier 4 : Entretiens de stage et de recrutement"/>
+    </fateliers>
+    <inscrits>
+        <inscrit code="1" confirmed="true">
+            <nom>USER249</nom>
+            <prenom>Pivot249</prenom>
+            <email>user.pivot.249@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="2" confirmed="false">
+            <nom>USER248</nom>
+            <prenom>Pivot248</prenom>
+            <email>user.pivot.248@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="3" confirmed="true">
+            <nom>USER247</nom>
+            <prenom>Pivot247</prenom>
+            <email>user.pivot.247@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="4" confirmed="false">
+            <nom>USER246</nom>
+            <prenom>Pivot246</prenom>
+            <email>user.pivot.246@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="5" confirmed="true">
+            <nom>USER245</nom>
+            <prenom>Pivot245</prenom>
+            <email>user.pivot.245@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="6" confirmed="false">
+            <nom>USER244</nom>
+            <prenom>Pivot244</prenom>
+            <email>user.pivot.244@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="7" confirmed="true">
+            <nom>USER243</nom>
+            <prenom>Pivot243</prenom>
+            <email>user.pivot.243@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="8" confirmed="false">
+            <nom>USER242</nom>
+            <prenom>Pivot242</prenom>
+            <email>user.pivot.242@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="9" confirmed="false">
+            <nom>USER241</nom>
+            <prenom>Pivot241</prenom>
+            <email>user.pivot.241@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="10" confirmed="false">
+            <nom>USER240</nom>
+            <prenom>Pivot240</prenom>
+            <email>user.pivot.240@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="11" confirmed="false">
+            <nom>USER239</nom>
+            <prenom>Pivot239</prenom>
+            <email>user.pivot.239@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="12" confirmed="false">
+            <nom>USER238</nom>
+            <prenom>Pivot238</prenom>
+            <email>user.pivot.238@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="13" confirmed="false">
+            <nom>USER237</nom>
+            <prenom>Pivot237</prenom>
+            <email>user.pivot.237@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="14" confirmed="false">
+            <nom>USER236</nom>
+            <prenom>Pivot236</prenom>
+            <email>user.pivot.236@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="15" confirmed="false">
+            <nom>USER235</nom>
+            <prenom>Pivot235</prenom>
+            <email>user.pivot.235@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="16" confirmed="false">
+            <nom>USER234</nom>
+            <prenom>Pivot234</prenom>
+            <email>user.pivot.234@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="17" confirmed="false">
+            <nom>USER233</nom>
+            <prenom>Pivot233</prenom>
+            <email>user.pivot.233@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="18" confirmed="false">
+            <nom>USER232</nom>
+            <prenom>Pivot232</prenom>
+            <email>user.pivot.232@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="19" confirmed="false">
+            <nom>USER231</nom>
+            <prenom>Pivot231</prenom>
+            <email>user.pivot.231@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="20" confirmed="false">
+            <nom>USER230</nom>
+            <prenom>Pivot230</prenom>
+            <email>user.pivot.230@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="21" confirmed="false">
+            <nom>USER229</nom>
+            <prenom>Pivot229</prenom>
+            <email>user.pivot.229@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="22" confirmed="false">
+            <nom>USER228</nom>
+            <prenom>Pivot228</prenom>
+            <email>user.pivot.228@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="23" confirmed="false">
+            <nom>USER227</nom>
+            <prenom>Pivot227</prenom>
+            <email>user.pivot.227@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="24" confirmed="false">
+            <nom>USER226</nom>
+            <prenom>Pivot226</prenom>
+            <email>user.pivot.226@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="25" confirmed="false">
+            <nom>USER225</nom>
+            <prenom>Pivot225</prenom>
+            <email>user.pivot.225@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="26" confirmed="false">
+            <nom>USER224</nom>
+            <prenom>Pivot224</prenom>
+            <email>user.pivot.224@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="27" confirmed="false">
+            <nom>USER223</nom>
+            <prenom>Pivot223</prenom>
+            <email>user.pivot.223@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="28" confirmed="false">
+            <nom>USER222</nom>
+            <prenom>Pivot222</prenom>
+            <email>user.pivot.222@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="29" confirmed="false">
+            <nom>USER221</nom>
+            <prenom>Pivot221</prenom>
+            <email>user.pivot.221@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="30" confirmed="false">
+            <nom>USER220</nom>
+            <prenom>Pivot220</prenom>
+            <email>user.pivot.220@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="31" confirmed="false">
+            <nom>USER219</nom>
+            <prenom>Pivot219</prenom>
+            <email>user.pivot.219@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="32" confirmed="false">
+            <nom>USER218</nom>
+            <prenom>Pivot218</prenom>
+            <email>user.pivot.218@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="33" confirmed="false">
+            <nom>USER217</nom>
+            <prenom>Pivot217</prenom>
+            <email>user.pivot.217@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="34" confirmed="false">
+            <nom>USER216</nom>
+            <prenom>Pivot216</prenom>
+            <email>user.pivot.216@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="35" confirmed="false">
+            <nom>USER215</nom>
+            <prenom>Pivot215</prenom>
+            <email>user.pivot.215@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="36" confirmed="false">
+            <nom>USER214</nom>
+            <prenom>Pivot214</prenom>
+            <email>user.pivot.214@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="37" confirmed="false">
+            <nom>USER213</nom>
+            <prenom>Pivot213</prenom>
+            <email>user.pivot.213@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="38" confirmed="false">
+            <nom>USER212</nom>
+            <prenom>Pivot212</prenom>
+            <email>user.pivot.212@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="39" confirmed="false">
+            <nom>USER211</nom>
+            <prenom>Pivot211</prenom>
+            <email>user.pivot.211@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="40" confirmed="false">
+            <nom>USER210</nom>
+            <prenom>Pivot210</prenom>
+            <email>user.pivot.210@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="41" confirmed="false">
+            <nom>USER209</nom>
+            <prenom>Pivot209</prenom>
+            <email>user.pivot.209@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="42" confirmed="false">
+            <nom>USER208</nom>
+            <prenom>Pivot208</prenom>
+            <email>user.pivot.208@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="43" confirmed="false">
+            <nom>USER207</nom>
+            <prenom>Pivot207</prenom>
+            <email>user.pivot.207@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="44" confirmed="false">
+            <nom>USER206</nom>
+            <prenom>Pivot206</prenom>
+            <email>user.pivot.206@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="45" confirmed="false">
+            <nom>USER205</nom>
+            <prenom>Pivot205</prenom>
+            <email>user.pivot.205@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="46" confirmed="false">
+            <nom>USER204</nom>
+            <prenom>Pivot204</prenom>
+            <email>user.pivot.204@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="47" confirmed="false">
+            <nom>USER203</nom>
+            <prenom>Pivot203</prenom>
+            <email>user.pivot.203@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="48" confirmed="false">
+            <nom>USER202</nom>
+            <prenom>Pivot202</prenom>
+            <email>user.pivot.202@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="49" confirmed="false">
+            <nom>USER201</nom>
+            <prenom>Pivot201</prenom>
+            <email>user.pivot.201@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="50" confirmed="false">
+            <nom>USER200</nom>
+            <prenom>Pivot200</prenom>
+            <email>user.pivot.200@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="51" confirmed="false">
+            <nom>USER199</nom>
+            <prenom>Pivot199</prenom>
+            <email>user.pivot.199@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="52" confirmed="false">
+            <nom>USER198</nom>
+            <prenom>Pivot198</prenom>
+            <email>user.pivot.198@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="53" confirmed="false">
+            <nom>USER197</nom>
+            <prenom>Pivot197</prenom>
+            <email>user.pivot.197@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="54" confirmed="false">
+            <nom>USER196</nom>
+            <prenom>Pivot196</prenom>
+            <email>user.pivot.196@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="55" confirmed="false">
+            <nom>USER195</nom>
+            <prenom>Pivot195</prenom>
+            <email>user.pivot.195@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="56" confirmed="false">
+            <nom>USER194</nom>
+            <prenom>Pivot194</prenom>
+            <email>user.pivot.194@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="57" confirmed="false">
+            <nom>USER193</nom>
+            <prenom>Pivot193</prenom>
+            <email>user.pivot.193@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="58" confirmed="false">
+            <nom>USER192</nom>
+            <prenom>Pivot192</prenom>
+            <email>user.pivot.192@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="59" confirmed="false">
+            <nom>USER191</nom>
+            <prenom>Pivot191</prenom>
+            <email>user.pivot.191@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="60" confirmed="false">
+            <nom>USER190</nom>
+            <prenom>Pivot190</prenom>
+            <email>user.pivot.190@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="61" confirmed="false">
+            <nom>USER189</nom>
+            <prenom>Pivot189</prenom>
+            <email>user.pivot.189@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="62" confirmed="false">
+            <nom>USER188</nom>
+            <prenom>Pivot188</prenom>
+            <email>user.pivot.188@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="63" confirmed="false">
+            <nom>USER187</nom>
+            <prenom>Pivot187</prenom>
+            <email>user.pivot.187@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="64" confirmed="false">
+            <nom>USER186</nom>
+            <prenom>Pivot186</prenom>
+            <email>user.pivot.186@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="65" confirmed="false">
+            <nom>USER185</nom>
+            <prenom>Pivot185</prenom>
+            <email>user.pivot.185@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="66" confirmed="false">
+            <nom>USER184</nom>
+            <prenom>Pivot184</prenom>
+            <email>user.pivot.184@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="67" confirmed="false">
+            <nom>USER183</nom>
+            <prenom>Pivot183</prenom>
+            <email>user.pivot.183@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="68" confirmed="false">
+            <nom>USER182</nom>
+            <prenom>Pivot182</prenom>
+            <email>user.pivot.182@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="69" confirmed="false">
+            <nom>USER181</nom>
+            <prenom>Pivot181</prenom>
+            <email>user.pivot.181@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="70" confirmed="false">
+            <nom>USER180</nom>
+            <prenom>Pivot180</prenom>
+            <email>user.pivot.180@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="71" confirmed="false">
+            <nom>USER179</nom>
+            <prenom>Pivot179</prenom>
+            <email>user.pivot.179@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="72" confirmed="false">
+            <nom>USER178</nom>
+            <prenom>Pivot178</prenom>
+            <email>user.pivot.178@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="73" confirmed="false">
+            <nom>USER177</nom>
+            <prenom>Pivot177</prenom>
+            <email>user.pivot.177@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="74" confirmed="false">
+            <nom>USER176</nom>
+            <prenom>Pivot176</prenom>
+            <email>user.pivot.176@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="75" confirmed="false">
+            <nom>USER175</nom>
+            <prenom>Pivot175</prenom>
+            <email>user.pivot.175@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="76" confirmed="false">
+            <nom>USER174</nom>
+            <prenom>Pivot174</prenom>
+            <email>user.pivot.174@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="77" confirmed="false">
+            <nom>USER173</nom>
+            <prenom>Pivot173</prenom>
+            <email>user.pivot.173@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="78" confirmed="false">
+            <nom>USER172</nom>
+            <prenom>Pivot172</prenom>
+            <email>user.pivot.172@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="79" confirmed="false">
+            <nom>USER171</nom>
+            <prenom>Pivot171</prenom>
+            <email>user.pivot.171@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="80" confirmed="false">
+            <nom>USER170</nom>
+            <prenom>Pivot170</prenom>
+            <email>user.pivot.170@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="81" confirmed="false">
+            <nom>USER169</nom>
+            <prenom>Pivot169</prenom>
+            <email>user.pivot.169@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="82" confirmed="false">
+            <nom>USER168</nom>
+            <prenom>Pivot168</prenom>
+            <email>user.pivot.168@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="83" confirmed="false">
+            <nom>USER167</nom>
+            <prenom>Pivot167</prenom>
+            <email>user.pivot.167@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="84" confirmed="false">
+            <nom>USER166</nom>
+            <prenom>Pivot166</prenom>
+            <email>user.pivot.166@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="85" confirmed="false">
+            <nom>USER165</nom>
+            <prenom>Pivot165</prenom>
+            <email>user.pivot.165@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="86" confirmed="false">
+            <nom>USER164</nom>
+            <prenom>Pivot164</prenom>
+            <email>user.pivot.164@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="87" confirmed="false">
+            <nom>USER163</nom>
+            <prenom>Pivot163</prenom>
+            <email>user.pivot.163@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="88" confirmed="false">
+            <nom>USER162</nom>
+            <prenom>Pivot162</prenom>
+            <email>user.pivot.162@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="89" confirmed="false">
+            <nom>USER161</nom>
+            <prenom>Pivot161</prenom>
+            <email>user.pivot.161@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="90" confirmed="false">
+            <nom>USER160</nom>
+            <prenom>Pivot160</prenom>
+            <email>user.pivot.160@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="91" confirmed="false">
+            <nom>USER159</nom>
+            <prenom>Pivot159</prenom>
+            <email>user.pivot.159@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="92" confirmed="false">
+            <nom>USER158</nom>
+            <prenom>Pivot158</prenom>
+            <email>user.pivot.158@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="93" confirmed="false">
+            <nom>USER157</nom>
+            <prenom>Pivot157</prenom>
+            <email>user.pivot.157@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="94" confirmed="false">
+            <nom>USER156</nom>
+            <prenom>Pivot156</prenom>
+            <email>user.pivot.156@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="95" confirmed="false">
+            <nom>USER155</nom>
+            <prenom>Pivot155</prenom>
+            <email>user.pivot.155@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="96" confirmed="false">
+            <nom>USER154</nom>
+            <prenom>Pivot154</prenom>
+            <email>user.pivot.154@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="97" confirmed="false">
+            <nom>USER153</nom>
+            <prenom>Pivot153</prenom>
+            <email>user.pivot.153@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="98" confirmed="false">
+            <nom>USER152</nom>
+            <prenom>Pivot152</prenom>
+            <email>user.pivot.152@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="99" confirmed="false">
+            <nom>USER151</nom>
+            <prenom>Pivot151</prenom>
+            <email>user.pivot.151@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="100" confirmed="false">
+            <nom>USER150</nom>
+            <prenom>Pivot150</prenom>
+            <email>user.pivot.150@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="101" confirmed="false">
+            <nom>USER149</nom>
+            <prenom>Pivot149</prenom>
+            <email>user.pivot.149@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="102" confirmed="false">
+            <nom>USER148</nom>
+            <prenom>Pivot148</prenom>
+            <email>user.pivot.148@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="103" confirmed="false">
+            <nom>USER147</nom>
+            <prenom>Pivot147</prenom>
+            <email>user.pivot.147@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="104" confirmed="false">
+            <nom>USER146</nom>
+            <prenom>Pivot146</prenom>
+            <email>user.pivot.146@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="105" confirmed="false">
+            <nom>USER145</nom>
+            <prenom>Pivot145</prenom>
+            <email>user.pivot.145@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="106" confirmed="false">
+            <nom>USER144</nom>
+            <prenom>Pivot144</prenom>
+            <email>user.pivot.144@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="107" confirmed="false">
+            <nom>USER143</nom>
+            <prenom>Pivot143</prenom>
+            <email>user.pivot.143@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="108" confirmed="false">
+            <nom>USER142</nom>
+            <prenom>Pivot142</prenom>
+            <email>user.pivot.142@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="109" confirmed="false">
+            <nom>USER141</nom>
+            <prenom>Pivot141</prenom>
+            <email>user.pivot.141@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="110" confirmed="false">
+            <nom>USER140</nom>
+            <prenom>Pivot140</prenom>
+            <email>user.pivot.140@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="111" confirmed="false">
+            <nom>USER139</nom>
+            <prenom>Pivot139</prenom>
+            <email>user.pivot.139@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="112" confirmed="false">
+            <nom>USER138</nom>
+            <prenom>Pivot138</prenom>
+            <email>user.pivot.138@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="113" confirmed="false">
+            <nom>USER137</nom>
+            <prenom>Pivot137</prenom>
+            <email>user.pivot.137@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="114" confirmed="false">
+            <nom>USER136</nom>
+            <prenom>Pivot136</prenom>
+            <email>user.pivot.136@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="115" confirmed="false">
+            <nom>USER135</nom>
+            <prenom>Pivot135</prenom>
+            <email>user.pivot.135@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="116" confirmed="false">
+            <nom>USER134</nom>
+            <prenom>Pivot134</prenom>
+            <email>user.pivot.134@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="117" confirmed="false">
+            <nom>USER133</nom>
+            <prenom>Pivot133</prenom>
+            <email>user.pivot.133@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="118" confirmed="false">
+            <nom>USER132</nom>
+            <prenom>Pivot132</prenom>
+            <email>user.pivot.132@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="119" confirmed="false">
+            <nom>USER131</nom>
+            <prenom>Pivot131</prenom>
+            <email>user.pivot.131@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="120" confirmed="false">
+            <nom>USER130</nom>
+            <prenom>Pivot130</prenom>
+            <email>user.pivot.130@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="121" confirmed="false">
+            <nom>USER129</nom>
+            <prenom>Pivot129</prenom>
+            <email>user.pivot.129@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="122" confirmed="false">
+            <nom>USER128</nom>
+            <prenom>Pivot128</prenom>
+            <email>user.pivot.128@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="123" confirmed="false">
+            <nom>USER127</nom>
+            <prenom>Pivot127</prenom>
+            <email>user.pivot.127@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="124" confirmed="false">
+            <nom>USER126</nom>
+            <prenom>Pivot126</prenom>
+            <email>user.pivot.126@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="125" confirmed="false">
+            <nom>USER125</nom>
+            <prenom>Pivot125</prenom>
+            <email>user.pivot.125@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="126" confirmed="false">
+            <nom>USER124</nom>
+            <prenom>Pivot124</prenom>
+            <email>user.pivot.124@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="127" confirmed="false">
+            <nom>USER123</nom>
+            <prenom>Pivot123</prenom>
+            <email>user.pivot.123@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="128" confirmed="false">
+            <nom>USER122</nom>
+            <prenom>Pivot122</prenom>
+            <email>user.pivot.122@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="129" confirmed="false">
+            <nom>USER121</nom>
+            <prenom>Pivot121</prenom>
+            <email>user.pivot.121@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="130" confirmed="false">
+            <nom>USER120</nom>
+            <prenom>Pivot120</prenom>
+            <email>user.pivot.120@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="131" confirmed="false">
+            <nom>USER119</nom>
+            <prenom>Pivot119</prenom>
+            <email>user.pivot.119@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="132" confirmed="false">
+            <nom>USER118</nom>
+            <prenom>Pivot118</prenom>
+            <email>user.pivot.118@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="133" confirmed="false">
+            <nom>USER117</nom>
+            <prenom>Pivot117</prenom>
+            <email>user.pivot.117@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="134" confirmed="false">
+            <nom>USER116</nom>
+            <prenom>Pivot116</prenom>
+            <email>user.pivot.116@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="135" confirmed="false">
+            <nom>USER115</nom>
+            <prenom>Pivot115</prenom>
+            <email>user.pivot.115@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="136" confirmed="false">
+            <nom>USER114</nom>
+            <prenom>Pivot114</prenom>
+            <email>user.pivot.114@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="137" confirmed="false">
+            <nom>USER113</nom>
+            <prenom>Pivot113</prenom>
+            <email>user.pivot.113@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="138" confirmed="false">
+            <nom>USER112</nom>
+            <prenom>Pivot112</prenom>
+            <email>user.pivot.112@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="139" confirmed="false">
+            <nom>USER111</nom>
+            <prenom>Pivot111</prenom>
+            <email>user.pivot.111@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="140" confirmed="false">
+            <nom>USER110</nom>
+            <prenom>Pivot110</prenom>
+            <email>user.pivot.110@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="141" confirmed="false">
+            <nom>USER109</nom>
+            <prenom>Pivot109</prenom>
+            <email>user.pivot.109@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="142" confirmed="false">
+            <nom>USER108</nom>
+            <prenom>Pivot108</prenom>
+            <email>user.pivot.108@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="143" confirmed="false">
+            <nom>USER107</nom>
+            <prenom>Pivot107</prenom>
+            <email>user.pivot.107@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="144" confirmed="false">
+            <nom>USER106</nom>
+            <prenom>Pivot106</prenom>
+            <email>user.pivot.106@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="145" confirmed="false">
+            <nom>USER105</nom>
+            <prenom>Pivot105</prenom>
+            <email>user.pivot.105@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="146" confirmed="false">
+            <nom>USER104</nom>
+            <prenom>Pivot104</prenom>
+            <email>user.pivot.104@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="147" confirmed="false">
+            <nom>USER103</nom>
+            <prenom>Pivot103</prenom>
+            <email>user.pivot.103@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="148" confirmed="false">
+            <nom>USER102</nom>
+            <prenom>Pivot102</prenom>
+            <email>user.pivot.102@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="149" confirmed="false">
+            <nom>USER101</nom>
+            <prenom>Pivot101</prenom>
+            <email>user.pivot.101@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="150" confirmed="false">
+            <nom>USER100</nom>
+            <prenom>Pivot100</prenom>
+            <email>user.pivot.100@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="151" confirmed="false">
+            <nom>USER99</nom>
+            <prenom>Pivot99</prenom>
+            <email>user.pivot.99@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="152" confirmed="false">
+            <nom>USER98</nom>
+            <prenom>Pivot98</prenom>
+            <email>user.pivot.98@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="153" confirmed="false">
+            <nom>USER97</nom>
+            <prenom>Pivot97</prenom>
+            <email>user.pivot.97@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="154" confirmed="false">
+            <nom>USER96</nom>
+            <prenom>Pivot96</prenom>
+            <email>user.pivot.96@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="155" confirmed="false">
+            <nom>USER95</nom>
+            <prenom>Pivot95</prenom>
+            <email>user.pivot.95@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="156" confirmed="false">
+            <nom>USER94</nom>
+            <prenom>Pivot94</prenom>
+            <email>user.pivot.94@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="157" confirmed="false">
+            <nom>USER93</nom>
+            <prenom>Pivot93</prenom>
+            <email>user.pivot.93@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="158" confirmed="false">
+            <nom>USER92</nom>
+            <prenom>Pivot92</prenom>
+            <email>user.pivot.92@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="159" confirmed="false">
+            <nom>USER91</nom>
+            <prenom>Pivot91</prenom>
+            <email>user.pivot.91@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="160" confirmed="false">
+            <nom>USER90</nom>
+            <prenom>Pivot90</prenom>
+            <email>user.pivot.90@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="161" confirmed="false">
+            <nom>USER89</nom>
+            <prenom>Pivot89</prenom>
+            <email>user.pivot.89@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="162" confirmed="false">
+            <nom>USER88</nom>
+            <prenom>Pivot88</prenom>
+            <email>user.pivot.88@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="163" confirmed="false">
+            <nom>USER87</nom>
+            <prenom>Pivot87</prenom>
+            <email>user.pivot.87@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="164" confirmed="false">
+            <nom>USER86</nom>
+            <prenom>Pivot86</prenom>
+            <email>user.pivot.86@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="165" confirmed="false">
+            <nom>USER85</nom>
+            <prenom>Pivot85</prenom>
+            <email>user.pivot.85@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="166" confirmed="false">
+            <nom>USER84</nom>
+            <prenom>Pivot84</prenom>
+            <email>user.pivot.84@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="167" confirmed="false">
+            <nom>USER83</nom>
+            <prenom>Pivot83</prenom>
+            <email>user.pivot.83@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="168" confirmed="false">
+            <nom>USER82</nom>
+            <prenom>Pivot82</prenom>
+            <email>user.pivot.82@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="169" confirmed="false">
+            <nom>USER81</nom>
+            <prenom>Pivot81</prenom>
+            <email>user.pivot.81@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="170" confirmed="false">
+            <nom>USER80</nom>
+            <prenom>Pivot80</prenom>
+            <email>user.pivot.80@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="171" confirmed="false">
+            <nom>USER79</nom>
+            <prenom>Pivot79</prenom>
+            <email>user.pivot.79@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="172" confirmed="false">
+            <nom>USER78</nom>
+            <prenom>Pivot78</prenom>
+            <email>user.pivot.78@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="173" confirmed="false">
+            <nom>USER77</nom>
+            <prenom>Pivot77</prenom>
+            <email>user.pivot.77@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="174" confirmed="false">
+            <nom>USER76</nom>
+            <prenom>Pivot76</prenom>
+            <email>user.pivot.76@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="175" confirmed="false">
+            <nom>USER75</nom>
+            <prenom>Pivot75</prenom>
+            <email>user.pivot.75@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="176" confirmed="false">
+            <nom>USER74</nom>
+            <prenom>Pivot74</prenom>
+            <email>user.pivot.74@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="177" confirmed="false">
+            <nom>USER73</nom>
+            <prenom>Pivot73</prenom>
+            <email>user.pivot.73@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="178" confirmed="false">
+            <nom>USER72</nom>
+            <prenom>Pivot72</prenom>
+            <email>user.pivot.72@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="179" confirmed="false">
+            <nom>USER71</nom>
+            <prenom>Pivot71</prenom>
+            <email>user.pivot.71@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="180" confirmed="false">
+            <nom>USER70</nom>
+            <prenom>Pivot70</prenom>
+            <email>user.pivot.70@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="181" confirmed="false">
+            <nom>USER69</nom>
+            <prenom>Pivot69</prenom>
+            <email>user.pivot.69@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="182" confirmed="false">
+            <nom>USER68</nom>
+            <prenom>Pivot68</prenom>
+            <email>user.pivot.68@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="183" confirmed="false">
+            <nom>USER67</nom>
+            <prenom>Pivot67</prenom>
+            <email>user.pivot.67@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="184" confirmed="false">
+            <nom>USER66</nom>
+            <prenom>Pivot66</prenom>
+            <email>user.pivot.66@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="185" confirmed="false">
+            <nom>USER65</nom>
+            <prenom>Pivot65</prenom>
+            <email>user.pivot.65@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="186" confirmed="false">
+            <nom>USER64</nom>
+            <prenom>Pivot64</prenom>
+            <email>user.pivot.64@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="187" confirmed="false">
+            <nom>USER63</nom>
+            <prenom>Pivot63</prenom>
+            <email>user.pivot.63@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="188" confirmed="false">
+            <nom>USER62</nom>
+            <prenom>Pivot62</prenom>
+            <email>user.pivot.62@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="189" confirmed="false">
+            <nom>USER61</nom>
+            <prenom>Pivot61</prenom>
+            <email>user.pivot.61@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="190" confirmed="false">
+            <nom>USER60</nom>
+            <prenom>Pivot60</prenom>
+            <email>user.pivot.60@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="191" confirmed="false">
+            <nom>USER59</nom>
+            <prenom>Pivot59</prenom>
+            <email>user.pivot.59@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="192" confirmed="false">
+            <nom>USER58</nom>
+            <prenom>Pivot58</prenom>
+            <email>user.pivot.58@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="193" confirmed="false">
+            <nom>USER57</nom>
+            <prenom>Pivot57</prenom>
+            <email>user.pivot.57@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="194" confirmed="false">
+            <nom>USER56</nom>
+            <prenom>Pivot56</prenom>
+            <email>user.pivot.56@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="195" confirmed="false">
+            <nom>USER55</nom>
+            <prenom>Pivot55</prenom>
+            <email>user.pivot.55@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="196" confirmed="false">
+            <nom>USER54</nom>
+            <prenom>Pivot54</prenom>
+            <email>user.pivot.54@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="197" confirmed="false">
+            <nom>USER53</nom>
+            <prenom>Pivot53</prenom>
+            <email>user.pivot.53@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="198" confirmed="false">
+            <nom>USER52</nom>
+            <prenom>Pivot52</prenom>
+            <email>user.pivot.52@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="199" confirmed="false">
+            <nom>USER51</nom>
+            <prenom>Pivot51</prenom>
+            <email>user.pivot.51@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="200" confirmed="false">
+            <nom>USER50</nom>
+            <prenom>Pivot50</prenom>
+            <email>user.pivot.50@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="201" confirmed="false">
+            <nom>USER49</nom>
+            <prenom>Pivot49</prenom>
+            <email>user.pivot.49@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="202" confirmed="false">
+            <nom>USER48</nom>
+            <prenom>Pivot48</prenom>
+            <email>user.pivot.48@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="203" confirmed="false">
+            <nom>USER47</nom>
+            <prenom>Pivot47</prenom>
+            <email>user.pivot.47@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="204" confirmed="false">
+            <nom>USER46</nom>
+            <prenom>Pivot46</prenom>
+            <email>user.pivot.46@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="205" confirmed="false">
+            <nom>USER45</nom>
+            <prenom>Pivot45</prenom>
+            <email>user.pivot.45@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="206" confirmed="false">
+            <nom>USER44</nom>
+            <prenom>Pivot44</prenom>
+            <email>user.pivot.44@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="207" confirmed="false">
+            <nom>USER43</nom>
+            <prenom>Pivot43</prenom>
+            <email>user.pivot.43@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="208" confirmed="false">
+            <nom>USER42</nom>
+            <prenom>Pivot42</prenom>
+            <email>user.pivot.42@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="209" confirmed="false">
+            <nom>USER41</nom>
+            <prenom>Pivot41</prenom>
+            <email>user.pivot.41@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="210" confirmed="false">
+            <nom>USER40</nom>
+            <prenom>Pivot40</prenom>
+            <email>user.pivot.40@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="211" confirmed="false">
+            <nom>USER39</nom>
+            <prenom>Pivot39</prenom>
+            <email>user.pivot.39@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="212" confirmed="false">
+            <nom>USER38</nom>
+            <prenom>Pivot38</prenom>
+            <email>user.pivot.38@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="213" confirmed="false">
+            <nom>USER37</nom>
+            <prenom>Pivot37</prenom>
+            <email>user.pivot.37@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="214" confirmed="false">
+            <nom>USER36</nom>
+            <prenom>Pivot36</prenom>
+            <email>user.pivot.36@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="215" confirmed="false">
+            <nom>USER35</nom>
+            <prenom>Pivot35</prenom>
+            <email>user.pivot.35@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="216" confirmed="false">
+            <nom>USER34</nom>
+            <prenom>Pivot34</prenom>
+            <email>user.pivot.34@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="217" confirmed="false">
+            <nom>USER33</nom>
+            <prenom>Pivot33</prenom>
+            <email>user.pivot.33@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="218" confirmed="false">
+            <nom>USER32</nom>
+            <prenom>Pivot32</prenom>
+            <email>user.pivot.32@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="219" confirmed="false">
+            <nom>USER31</nom>
+            <prenom>Pivot31</prenom>
+            <email>user.pivot.31@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="220" confirmed="false">
+            <nom>USER30</nom>
+            <prenom>Pivot30</prenom>
+            <email>user.pivot.30@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="221" confirmed="false">
+            <nom>USER29</nom>
+            <prenom>Pivot29</prenom>
+            <email>user.pivot.29@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="222" confirmed="false">
+            <nom>USER28</nom>
+            <prenom>Pivot28</prenom>
+            <email>user.pivot.28@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="223" confirmed="false">
+            <nom>USER27</nom>
+            <prenom>Pivot27</prenom>
+            <email>user.pivot.27@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="224" confirmed="false">
+            <nom>USER26</nom>
+            <prenom>Pivot26</prenom>
+            <email>user.pivot.26@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="225" confirmed="false">
+            <nom>USER25</nom>
+            <prenom>Pivot25</prenom>
+            <email>user.pivot.25@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="226" confirmed="false">
+            <nom>USER24</nom>
+            <prenom>Pivot24</prenom>
+            <email>user.pivot.24@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="227" confirmed="false">
+            <nom>USER23</nom>
+            <prenom>Pivot23</prenom>
+            <email>user.pivot.23@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="228" confirmed="false">
+            <nom>USER22</nom>
+            <prenom>Pivot22</prenom>
+            <email>user.pivot.22@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="229" confirmed="false">
+            <nom>USER21</nom>
+            <prenom>Pivot21</prenom>
+            <email>user.pivot.21@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="230" confirmed="false">
+            <nom>USER20</nom>
+            <prenom>Pivot20</prenom>
+            <email>user.pivot.20@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="231" confirmed="false">
+            <nom>USER19</nom>
+            <prenom>Pivot19</prenom>
+            <email>user.pivot.19@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="232" confirmed="false">
+            <nom>USER18</nom>
+            <prenom>Pivot18</prenom>
+            <email>user.pivot.18@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="233" confirmed="false">
+            <nom>USER17</nom>
+            <prenom>Pivot17</prenom>
+            <email>user.pivot.17@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="234" confirmed="false">
+            <nom>USER16</nom>
+            <prenom>Pivot16</prenom>
+            <email>user.pivot.16@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="235" confirmed="false">
+            <nom>USER15</nom>
+            <prenom>Pivot15</prenom>
+            <email>user.pivot.15@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="236" confirmed="false">
+            <nom>USER14</nom>
+            <prenom>Pivot14</prenom>
+            <email>user.pivot.14@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="237" confirmed="false">
+            <nom>USER13</nom>
+            <prenom>Pivot13</prenom>
+            <email>user.pivot.13@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="238" confirmed="false">
+            <nom>USER12</nom>
+            <prenom>Pivot12</prenom>
+            <email>user.pivot.12@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="239" confirmed="false">
+            <nom>USER11</nom>
+            <prenom>Pivot11</prenom>
+            <email>user.pivot.11@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="240" confirmed="false">
+            <nom>USER10</nom>
+            <prenom>Pivot10</prenom>
+            <email>user.pivot.10@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="241" confirmed="false">
+            <nom>USER9</nom>
+            <prenom>Pivot9</prenom>
+            <email>user.pivot.9@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="242" confirmed="false">
+            <nom>USER8</nom>
+            <prenom>Pivot8</prenom>
+            <email>user.pivot.8@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="243" confirmed="false">
+            <nom>USER7</nom>
+            <prenom>Pivot7</prenom>
+            <email>user.pivot.7@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="244" confirmed="false">
+            <nom>USER6</nom>
+            <prenom>Pivot6</prenom>
+            <email>user.pivot.6@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="245" confirmed="false">
+            <nom>USER5</nom>
+            <prenom>Pivot5</prenom>
+            <email>user.pivot.5@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="246" confirmed="false">
+            <nom>USER4</nom>
+            <prenom>Pivot4</prenom>
+            <email>user.pivot.4@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="247" confirmed="false">
+            <nom>USER3</nom>
+            <prenom>Pivot3</prenom>
+            <email>user.pivot.3@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a3"/>
+                <atelier ref="a4"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="248" confirmed="false">
+            <nom>USER2</nom>
+            <prenom>Pivot2</prenom>
+            <email>user.pivot.2@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+            </ateliers>
+        </inscrit>
+        <inscrit code="249" confirmed="false">
+            <nom>USER1</nom>
+            <prenom>Pivot1</prenom>
+            <email>user.pivot.1@apache.org</email>
+            <telephone>0123456789</telephone>
+            <ateliers>
+                <atelier ref="a2"/>
+            </ateliers>
+        </inscrit>
+    </inscrits>
+</forum>

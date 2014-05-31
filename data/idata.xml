@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<forum>
+    <fateliers>
+        <fatelier id="a1" name="Atelier 1 : Entreprenariat et cr�ation d'entreprise"/>
+        <fatelier id="a2" name="Atelier 2 : Techniques de recherche d'emploi"/>
+        <fatelier id="a3" name="Atelier 3 : Programmation Neuro Linguistique"/>
+        <fatelier id="a4" name="Atelier 4 : Entretiens de stage et de recrutement"/>
+    </fateliers>
+    <inscrits>
+        <inscrit code="12" confirmed="true">
+            <nom>BERRICH</nom>
+            <prenom>Jamal</prenom>
+            <email>jberrich@gmail.com</email>
+            <telephone>0660837673</telephone>
+            <ateliers>
+                <atelier ref="a1"/>
+                <atelier ref="a2"/>
+            </ateliers>
+        </inscrit>
+    </inscrits>
+</forum>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="forum">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="fateliers"/>
+        <xs:element ref="inscrits"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="fateliers">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="fatelier"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="fatelier">
+    <xs:complexType>
+      <xs:attribute name="id" use="required" type="xs:ID"/>
+      <xs:attribute name="name" use="required" type="xs:string"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="inscrits">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="inscrit"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="inscrit">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="nom"/>
+        <xs:element ref="prenom"/>
+        <xs:element ref="email"/>
+        <xs:element minOccurs="0" ref="telephone"/>
+        <xs:element ref="ateliers"/>
+      </xs:sequence>
+      <xs:attribute name="code" use="required" type="xs:int"/>
+      <xs:attribute default="false" name="confirmed" type="xs:boolean"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="nom" type="xs:string"/>
+  <xs:element name="prenom" type="xs:string"/>
+  <xs:element name="email" type="xs:string"/>
+  <xs:element name="telephone" type="xs:string"/>
+  <xs:element name="ateliers">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="atelier"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="atelier">
+    <xs:complexType>
+      <xs:attribute name="ref" use="required" type="xs:IDREF"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

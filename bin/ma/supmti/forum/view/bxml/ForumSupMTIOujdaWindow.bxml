@@ -1,0 +1,33 @@
+<layout:ForumSupMTIOujdaWindow 
+	title         = "SupMTI Oujda - Forum 2013"
+	maximized     = "true" 
+	xmlns         = "org.apache.pivot.wtk" 
+	xmlns:bxml    = "http://pivot.apache.org/bxml"
+	xmlns:layout  = "ma.supmti.forum.view" 
+	xmlns:content = "org.apache.pivot.wtk.content">
+	<bxml:define>
+        <bxml:include bxml:id="styles" src="/ma/supmti/forum/view/style/styles.json"/>
+    </bxml:define>
+	<StackPane styles="$styles.fStackPaneStyles">
+    	<ImageView  styles="$styles.fImageViewStyles" image="/ma/supmti/forum/view/img/background.png"/>
+		<TabPane bxml:id="fTabPane" styles="$styles.fTabPaneStyles">
+			<FillPane styles="$styles.fFillPaneStyles">
+				<TabPane.tabData>
+					<content:ButtonData icon="/ma/supmti/forum/view/img/inscrit_d.png" text="Recherche"/>
+				</TabPane.tabData>
+				<Border styles="$styles.fFillPaneBorderStyles">
+					<bxml:include inline="true" src="include/RechercheIncludeView.bxml"/>
+				</Border>
+			</FillPane>
+	
+			<FillPane styles="$styles.fFillPaneStyles">
+				<TabPane.tabData>
+					<content:ButtonData icon="/ma/supmti/forum/view/img/inscrit_a.png" text="Inscription"/>
+				</TabPane.tabData>
+				<Border styles="$styles.fFillPaneBorderStyles">
+					<bxml:include inline="true" src="include/InscriptionIncludeView.bxml"/>
+				</Border>
+			</FillPane>
+		</TabPane>
+   	</StackPane>
+</layout:ForumSupMTIOujdaWindow>

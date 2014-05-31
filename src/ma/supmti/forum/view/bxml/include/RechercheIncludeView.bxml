@@ -1,0 +1,116 @@
+<TablePane xmlns         = "org.apache.pivot.wtk"
+	       xmlns:bxml    = "http://pivot.apache.org/bxml"
+   	       xmlns:content = "org.apache.pivot.wtk.content"
+   	       styles="{verticalSpacing:5}">
+	<columns>
+		<TablePane.Column width= "1*"/>
+	</columns>	
+	<TablePane.Row height="-1">
+		<BoxPane styles="{horizontalAlignment:'right',verticalAlignment:'center'}">
+          	<PushButton bxml:id="rSaveButton" styles="$styles.fPushButtonStyles">
+				<content:ButtonData text="Enregistrer" icon="/ma/supmti/forum/view/img/save.png" />
+			</PushButton>
+	  	</BoxPane>
+	</TablePane.Row>
+	<TablePane.Row height="-1">
+		<Separator styles="$styles.fSeparatorStyles"/>
+	</TablePane.Row>
+	<TablePane.Row height="-1">
+		<Border title="Informations" styles="$styles.fBorderStyles">
+			<TablePane styles="{showVerticalGridLines:true, verticalGridColor:'#ADC8EA', horizontalSpacing:10}">
+				<columns>
+					<TablePane.Column width="1*"/>
+					<TablePane.Column width="1*"/>
+					<TablePane.Column width="1*"/>
+					<TablePane.Column width="1*"/>
+				</columns>
+				<TablePane.Row height="1*">
+					<BoxPane orientation="vertical"  styles="{fill:true, horizontalAlignment:'left', verticalAlignment:'center'}">
+						<Label     bxml:id="rNomLabel"     styles="$styles.fLabelStyles"     text="Nom :"/>
+					   	<TextInput bxml:id="rNomTextInput" styles="$styles.fTextInputStyles"/>
+					</BoxPane>
+					<BoxPane orientation="vertical"  styles="{fill:true, horizontalAlignment:'left', verticalAlignment:'center'}">
+						<Label     bxml:id="rPrenomLabel"     styles="$styles.fLabelStyles"     text="Prénom :"/>
+					   	<TextInput bxml:id="rPrenomTextInput" styles="$styles.fTextInputStyles"/>
+					</BoxPane>
+					<BoxPane orientation="vertical"  styles="{fill:true, horizontalAlignment:'left', verticalAlignment:'center'}">
+					   	<Label     bxml:id="rEmailLabel"     styles="$styles.fLabelStyles"     text="Adresse Email :"/>
+					   	<TextInput bxml:id="rEmailTextInput" styles="$styles.fTextInputStyles"/>
+					</BoxPane>
+					<BoxPane orientation="vertical"  styles="{fill:true, horizontalAlignment:'left', verticalAlignment:'center'}">
+						<Label     bxml:id="rTelephoneLabel"     styles="$styles.fLabelStyles"     text="Téléphone"/>
+					   	<TextInput bxml:id="rTelephoneTextInput" styles="$styles.fTextInputStyles"/>
+					</BoxPane>
+				</TablePane.Row>
+			</TablePane>
+		</Border>
+	</TablePane.Row>
+	<TablePane.Row height="-1">
+		<BoxPane styles="{horizontalAlignment:'right',verticalAlignment:'center'}">
+          	<PushButton bxml:id="newButton" styles="$styles.fPushButtonStyles">
+				<content:ButtonData text="Nouveau" icon="/ma/supmti/forum/view/img/new.png" />
+			</PushButton>
+          	<PushButton bxml:id="chercherButton" styles="$styles.fPushButtonStyles">
+				<content:ButtonData text="Chercher" icon="/ma/supmti/forum/view/img/search.png" />
+			</PushButton>
+    	</BoxPane>
+	</TablePane.Row>
+	<TablePane.Row height="-1">
+		<Separator styles="$styles.fSeparatorStyles"/>
+	</TablePane.Row>
+	<TablePane.Row height="1*">
+		<Border styles="$styles.fTableViewBorderStyles">
+			<ScrollPane horizontalScrollBarPolicy="fill_to_capacity">
+				<TableView bxml:id="rechercheTable" styles="$styles.fTableViewStyles">
+					<columns>
+						<TableView.Column name="user"                   headerData="">
+                      		<cellRenderer>
+                       			<content:TableViewImageCellRenderer/>
+                     		</cellRenderer>
+						</TableView.Column>
+						<TableView.Column name="code"                 headerData="Code"/>
+						<TableView.Column name="nom"       width="2*" headerData="Nom"/>
+						<TableView.Column name="prenom"    width="2*" headerData="Prénom"/>
+						<TableView.Column name="a1"                   headerData="Atelier 1">
+                      		<cellRenderer>
+                       			<content:TableViewImageCellRenderer/>
+                     		</cellRenderer>
+						</TableView.Column>
+						<TableView.Column name="a2"                   headerData="Atelier 2">
+                      		<cellRenderer>
+                       			<content:TableViewImageCellRenderer/>
+                     		</cellRenderer>
+						</TableView.Column>
+						<TableView.Column name="a3"                   headerData="Atelier 3">
+                      		<cellRenderer>
+                       			<content:TableViewImageCellRenderer/>
+                     		</cellRenderer>
+						</TableView.Column>
+						<TableView.Column name="a4"                   headerData="Atelier 4">
+                      		<cellRenderer>
+                       			<content:TableViewImageCellRenderer/>
+                     		</cellRenderer>
+						</TableView.Column>
+						<TableView.Column name="email"     width="4*" headerData="Adresse Email"/>  
+						<TableView.Column name="telephone" width="2*" headerData="Téléphone"/>
+						<TableView.Column name="state"/>
+					</columns>
+				</TableView>
+				<columnHeader>
+				    <TableViewHeader tableView="$rechercheTable" styles="$styles.fTableViewHeaderStyles"/>
+				</columnHeader>
+			</ScrollPane>
+		</Border>
+	</TablePane.Row>	
+	<TablePane.Row height="-1">
+		<Separator styles="$styles.fSeparatorStyles"/>
+	</TablePane.Row>
+	<TablePane.Row height="-1">
+		<BoxPane styles="{horizontalAlignment : 'right', verticalAlignment : 'center'}">
+			<FlowPane styles="{horizontalSpacing : 4 , alignToBaseline : true}">
+				<Label text="Nombre des confirmations : " styles="$styles.fBigLabelStyles"/>
+				<Label bxml:id="rTotalLabel" styles="$styles.fBigLabelStyles"/>
+		  	</FlowPane>
+	  	</BoxPane>
+	</TablePane.Row>
+</TablePane>
